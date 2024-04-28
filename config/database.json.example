@@ -1,0 +1,6 @@
+{
+    "host": "localhost (you can change that)",
+    "user": "root (change that)",
+    "password": "[ PASSWORD HERE ]",
+    "database": "sigmacellvideos (you can change that)"
+}
