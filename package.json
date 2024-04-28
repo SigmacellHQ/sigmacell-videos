@@ -1,13 +1,13 @@
 {
   "name": "sigmacell-videos",
-  "version": "1.0.0",
-  "description": "A video sharing platform",
+  "version": "0.0.1",
+  "description": "An online video sharing platform",
   "main": "src/main.js",
   "scripts": {
     "start": "node src/main.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "CC-BY-NC-4.0",
   "type": "module",
   "dependencies": {
     "mysql": "^2.18.1"
